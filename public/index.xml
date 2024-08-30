@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Gilly&#39;s Garden</title>
+    <link>https://www.gilly.garden/</link>
+    <description>Recent content in Home on Gilly&#39;s Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Aug 2024 02:12:24 +0000</lastBuildDate>
+    <atom:link href="https://www.gilly.garden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I set up my server</title>
+      <link>https://www.gilly.garden/posts/hello/</link>
+      <pubDate>Fri, 23 Aug 2024 02:12:24 +0000</pubDate>
+      <guid>https://www.gilly.garden/posts/hello/</guid>
+      <description>What will this server be used for? In order to determine the appropriate host and domain for my server, I needed to clearly define what I would use the server for.&#xA;I knew, at minimum, I wanted to:&#xA;Host a small blog Host an RSS reader (as many hosted RSS readers are rather pricey) But I also was thinking of hosting additional services in the future, such as:&#xA;activitypub server / client a media server personal web projects To keep things simple and to avoid my common trend of &amp;ldquo;aiming too big&amp;rdquo; with projects, to the point where I never finish them, I decided to focus primarily on the blog and RSS reader projects as a driving force for the server.</description>
+    </item>
+  </channel>
+</rss>
