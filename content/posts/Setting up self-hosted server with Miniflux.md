@@ -1,3 +1,9 @@
++++
+title = 'Setting up a self-hosted Server with Miniflux, start to finish'
+date = 2024-11-6
+draft = false
++++
+
 As I explained in [[Ditch Subscription Apps and Self Host]], I suggested that self-hosting is a great alternative to the rise of subscription-based apps. The biggest barrier to self  hosting is the setup; however, once it is done, the opportunities are limitless. Here I will explain how I setup my server, connected it to a domain, configured nginx, and installed my first service (miniflux). I hope this gives you a starting point for your self-hosted journey.
 
 
