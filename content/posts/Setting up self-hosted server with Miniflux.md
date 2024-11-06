@@ -1,6 +1,6 @@
 +++
 title = 'Setting up a self-hosted Server with Miniflux, start to finish'
-date = 2024-11-6
+date = 2024-11-06
 draft = false
 +++
 
