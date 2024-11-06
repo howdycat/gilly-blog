@@ -31,7 +31,7 @@ Remembering the ip of your server is complicated. We can simplify this by gettin
 1. [Buy your domain](https://www.cloudflare.com/products/registrar/). It can be anything you want.
 2. [Set up your DNS records](). 
 	- You'll want one entry to be like the one below, with a type of A, your domain, and the ipv4 address from Hetzner
-		![[{DDD0B061-0CEB-49D9-867C-EEEC787B7D8D}.png]]
+	![serverconfig](/serverip.png)
 	- Optionally, you can add subdomains if you intend to host multiple services. For this, use the same IPv4 address and the name of the subdomain. So if I wanted rss.gilly.garden, I would put 'rss' in the name field.
 	- Finally, you can set up an 'ssh' subdomain in the same way. For this to work, you'll have to disable the proxy. This will allow you to ssh into your server using the subdomain.
 
